@@ -14,6 +14,8 @@ STATIC_DIR="./client"
 
 PUBLISHABLE_KEY=""
 SECRET_KEY=""
+pk and sk can be found by following the steps mentioned in below link
+https://docs.google.com/document/d/1n0DH0Snz_s3BCfUUXkGEo_Pmczuefy6MxnlJmAJf73s/edit
 ```
 3. Initialise and start the project
 ```
